@@ -1,0 +1,73 @@
+/*Tipos fuentes */
+@font-face {
+    font-family: "Open Sans";
+    src: url(../fonts/OpenSans-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Questrial";
+    src: url(../fonts/Questrial-Regular.ttf) format("truetype");
+}
+
+/*Banner*/
+#modal2{
+	width: 25em;
+	height: 28em;
+}
+#Foco{
+	width: 15em;
+	height: 25em;
+	opacity: 0;
+	}
+	.TextBanner{
+		font-family: "Questrial";
+	}
+	.parallax-container {
+      height: 40em;
+    }
+    .textPres{
+    	font-size: 1.5em;
+    }
+    #TextBan #PafBan{
+    	opacity: 0;
+    }
+	#Logo{
+		width: 1em;
+		height: 0.5em;
+	}
+/*Presentacion*/
+#detalle{
+	width: 7em;
+	height: 1em;
+	}
+	#PafPres{
+		opacity: 0;
+	}
+	
+.productos{
+	height: 30em;
+	padding-top: 10em;
+	}
+	.ProductosSec{
+		padding-left: 5em;
+		padding-right: 5em;
+	}
+	.itemCard{
+		height: 5em;
+	}
+	#Card1,#Card2,#Card3,#Card4,#Card5,#Card6{
+		opacity: 0;
+	}
+	#titSmall{
+		font-size: 0.9em;
+	}
+/*Footer*/
+#Footers{
+	width:20em;
+	height: 10em; 
+}
+
+@media only screen and (max-width: 500px) {
+    .ProductosSec {
+        padding: 0em;
+    }
+}
