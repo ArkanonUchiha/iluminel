@@ -67,7 +67,7 @@
 	 <div class="section white">
      	<div class="row container valign-wrapper" id="Presentacion">
       	
-      	<p class="grey-text text-darken-3 lighten-3 center-align TextBanner textPres" id="PafPres">Somos una empresa certificada por FIDE siendo así única empresa en la región centro sur que ofrece proyectos integrales basadas en las cinco tecnologías que implementa FIDE atacando así las áreas de oportunidad logrando desarrollar proyectos totalmente rentables y sustentables, contamos con un grupo de ingenieros altamente calificados así como con 5 años en el mercado que nos avalan y permiten ofrecer trabajos garantizados..</p>
+      	<p class="grey-text text-darken-3 lighten-3 center-align TextBanner textPres" id="PafPres">Somos Una empresa certificada por FIDE siendo así única empresa en la región centro sur que ofrece proyectos integrales basadas en las cinco tecnologías que implementa FIDE atacando así las áreas de oportunidad logrando desarrollar proyectos totalmente rentables y sustentables, contamos con un grupo de ingenieros altamente calificados así como con 5 años en el mercado que nos avalan y permiten ofrecer trabajos garantizados..</p>
       	
     	</div>
     	<div class="row">
